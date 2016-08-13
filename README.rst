@@ -30,10 +30,10 @@
 .. _Python: http://python.org/
 
 ============================
-Bottle: Python Web Framework
+Ewer: Python Web Framework
 ============================
 
-Bottle is a fast, simple and lightweight WSGI_ micro web-framework for Python_. It is distributed as a single file module and has no dependencies other than the `Python Standard Library <http://docs.python.org/library/>`_.
+Ewer is an asynchronous fork of Bottle,  a fast, simple and lightweight WSGI_ micro web-framework for Python_. It is distributed as a single file module and has no dependencies other than the `Python Standard Library <http://docs.python.org/library/>`_.
 
 
 * **Routing:** Requests to function-call mapping with support for clean and  dynamic URLs.
